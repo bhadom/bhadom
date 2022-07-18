@@ -36,6 +36,14 @@ Here are some ideas to get you started:
       height="40"
     />
   </a>
+   <a href="[https://microsoft.com/en-us/ef/)" target="_blank" rel="noreferrer">
+    <img
+      src=""
+      alt="Entity Framework"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://visualstudio.microsoft.com" target="_blank" rel="noreferrer">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"
