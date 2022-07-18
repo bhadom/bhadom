@@ -12,8 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Visitor Count](https://komarev.com/ghpvc/?username=bhadom&color=blue&style=plastic)
 <h1 align="center">Hello there, I'm Michael 😄</h1>
-<h2 align="center">Welcome to my profile</h2>
+<p align="center">Welcome to my profile</p>
 
 <h2 align="left">My strengths:</h2>
 
@@ -83,13 +84,11 @@ Here are some ideas to get you started:
 
 <h2 align="left">Statistics:</h2>
 
-<h3 align="left">My Visitor Count</h3>
 
-![Visitor Count](https://profile-counter.glitch.me/{bhadom}/count.svg)
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=bhadom&theme=chartreuse-dark&show_icons=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=bhadom&theme=algolia&show_icons=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhadom&theme=chartreuse-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhadom&theme=algolia&layout=compact)
 
 
 
