@@ -70,7 +70,7 @@ Here are some ideas to get you started:
     />    
   </a>
 </a>
-<h2 align="left">Currently learing:</h2>
+<h2 align="left">Currently learning:</h2>
   
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
