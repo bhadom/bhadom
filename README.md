@@ -24,70 +24,95 @@ Here are some ideas to get you started:
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
       alt="csharp"
-      width="40"
-      height="40"
+      width="70"
+      height="70"
     />
   </a>
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"
       alt="dotnet"
-      width="40"
-      height="40"
+      width="70"
+      height="70"
     />
   </a>
    <a href="https://docs.microsoft.com/en-us/ef/" target="_blank" rel="noreferrer">
     <img
       src="https://codeopinion.com/wp-content/uploads/2017/10/Bitmap-MEDIUM_Entity-Framework-Core-Logo_2colors_Square_Boxed_RGB-300x300.png"
       alt="Entity Framework Core"
-      width="40"
-      height="40"
+      width="70"
+      height="70"
     />
   </a>
   <a href="https://visualstudio.microsoft.com" target="_blank" rel="noreferrer">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"
       alt="visualstudio"
-      width="40"
-      height="40"
+      width="70"
+      height="70"
     />
   </a>
   <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
       alt="visualcode"
-      width="40"
-      height="40"
+      width="70"
+      height="70"
     />
   </a>
-  <!-- 
+   <a
+    href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"
+      alt="mssql"
+      width="70"
+      height="70"
+    />    
+  </a>
+</a>
+<h2 align="left">Currently learing:</h2>
+  
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
       alt="html5"
-      width="40"
-      height="40"
+      width="70"
+      height="70"
     />
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
       alt="css3"
-      width="40"
-      height="40"
+      width="70"
+      height="70"
     />
   </a>
--->
-  <a
-    href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+  <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer">
     <img
-      src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"
-      alt="mssql"
-      width="40"
-      height="40"
+      src="https://www.w3schools.com/whatis/img_js.png"
+      alt="js"
+      width="70"
+      height="70"
     />
   </a>
-</a>
+  <a href="https://www.w3schools.com/react/" target="_blank" rel="noreferrer">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"
+      alt="React"
+      width="70"
+      height="70"
+    />
+  </a>
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/512px-Vue.js_Logo_2.svg.png"
+      alt="Vue.js"
+      width="70"
+      height="70"
+    />
+  </a>
+
 
 
 <h2 align="left">Statistics:</h2>
