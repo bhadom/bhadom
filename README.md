@@ -16,11 +16,13 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhadom&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=bhadom&theme=github_dark&show_icons=true&count_private=true)
--->
-![Visitor Count](https://komarev.com/ghpvc/?username=bhadom&color=blue&style=plastic)
+
 <h1 align="center">Hello there, I'm Michael 😄</h1>
 <p align="center">Welcome to my profile</p>
+-->
+![Visitor Count](https://komarev.com/ghpvc/?username=bhadom&color=blue&style=plastic)
 
+<img src="V3.png"/>
 <h2 align="left">My strengths:</h2>
 
 
