@@ -36,7 +36,7 @@ Here are some ideas to get you started:
       height="40"
     />
   </a>
-   <a href="https://microsoft.com/en-us/ef" target="_blank" rel="noreferrer">
+   <a href="https://docs.microsoft.com/en-us/ef/" target="_blank" rel="noreferrer">
     <img
       src="https://codeopinion.com/wp-content/uploads/2017/10/Bitmap-MEDIUM_Entity-Framework-Core-Logo_2colors_Square_Boxed_RGB-300x300.png"
       alt="Entity Framework Core"
