@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 ![Github stats](https://github-readme-stats.vercel.app/api?username=bhadom&theme=github_dark&show_icons=true&count_private=true)
 -->
 ![Visitor Count](https://komarev.com/ghpvc/?username=bhadom&color=blue&style=plastic)
-<h1 align="center">Hello there, I'm Michael 😄</h1>
-<p align="center">Welcome to my profile</p>
+<h1 align="left">Hello there, I'm Michael 😄</h1>
+<p align="left">Welcome to my profile</p>
 
 <h2 align="left">My strengths:</h2>
 
