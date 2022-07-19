@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 -->
 ![Visitor Count](https://komarev.com/ghpvc/?username=bhadom&color=blue&style=plastic)
 
-<img src="V4.png"/>
+<img src="V5.png"/>
 <h2 align="left">My strengths:</h2>
 
 
