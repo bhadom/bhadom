@@ -118,10 +118,11 @@ Here are some ideas to get you started:
 <h2 align="left">Statistics:</h2>
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhadom&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=bhadom&theme=github_dark&show_icons=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhadom&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
