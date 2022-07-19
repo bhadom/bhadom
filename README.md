@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 ![Github stats](https://github-readme-stats.vercel.app/api?username=bhadom&theme=github_dark&show_icons=true&count_private=true)
 -->
 ![Visitor Count](https://komarev.com/ghpvc/?username=bhadom&color=blue&style=plastic)
-<h1 align="left">Hello there, I'm Michael 😄</h1>
-<p align="left">Welcome to my profile</p>
+<h1 align="center">Hello there, I'm Michael 😄</h1>
+<p align="center">Welcome to my profile</p>
 
 <h2 align="left">My strengths:</h2>
 
@@ -117,14 +117,14 @@ Here are some ideas to get you started:
       height="70"
     />
   </a>
-
+</div>
 
 
 <h2 align="left">Statistics:</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhadom&theme=chartreuse-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhadom&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=bhadom&theme=chartreuse-dark&show_icons=true&layout=compact)
+![Github stats](https://github-readme-stats.vercel.app/api?username=bhadom&theme=github_dark&show_icons=true&count_private=true)
 
 
 
