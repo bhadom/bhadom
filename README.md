@@ -103,6 +103,7 @@ Here are some ideas to get you started:
       height="70"
     />
   </a>
+  <!-- 
   <a href="https://www.w3schools.com/react/" target="_blank" rel="noreferrer">
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"
@@ -119,6 +120,7 @@ Here are some ideas to get you started:
       height="70"
     />
   </a>
+  -->
 </div>
 
 
